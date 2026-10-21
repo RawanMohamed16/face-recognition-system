@@ -90,5 +90,5 @@ Python, face_recognition (dlib), OpenCV, NumPy, pandas, scikit-learn, matplotlib
 
 ## Author
 
-**[Your name]**: Computer Science student at AASTMT
-[LinkedIn or email]
+Rawan Abdelsalam Mohamed: Computer Science student at AASTMT
+
