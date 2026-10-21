@@ -1,0 +1,6 @@
+face-recognition
+opencv-python
+dlib
+pandas
+scikit-learn
+tqdm
