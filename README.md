@@ -21,8 +21,8 @@ Built with `face_recognition` (dlib), OpenCV, scikit-learn, and Streamlit. Devel
 
 ## Dataset
 
-- Source: **[add dataset name and link here]**
-- Size: **[total images]** images of **[number]** people
+- Source: Face Recognition Dataset [https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset]
+- Size: 769.14 MB
 - Split: 80% training (2,049 training images) / 20% test, random seed 42
 
 The images are **not included** in this repository. Download the dataset from the source above and follow the setup steps below.
